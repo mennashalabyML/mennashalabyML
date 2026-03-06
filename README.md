@@ -1,5 +1,7 @@
-# Hi, I'm Menna Shalaby ✨
- AI & Machine Learning Student | Python  
+
+  
+<h1 align="center">Hi, I'm Menna Shalaby ✨</h1>
+<p align="center"> AI & Machine Learning Student | Python</p>
 
 ---
 
