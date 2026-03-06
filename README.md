@@ -22,9 +22,8 @@
   <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png"/>
   <img src="https://img.icons8.com/color/48/000000/source-code.png"/>
   <img src="https://img.icons8.com/color/48/000000/data-configuration.png"/>
-
-
 </p>
+
 ## 📊 GitHub Stats
 <p align="center">
   
