@@ -7,14 +7,20 @@
 
 ## 🌐 My Social Accounts
 <p align="center">
-  <a href="mailto:mennashalabyrabee@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
-  <a href="https://www.linkedin.com/in/menna-shalaby-rabee"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://wa.me/201080860439"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
-  <a href="https://www.facebook.com/menna.shalaby.713497"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-  <a href="https://github.com/mennashalabyML"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
+  <a href="https://www.linkedin.com/in/menna-shalaby-rabee">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/mennashalabyML">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://wa.me/201080860439">
+    <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp.png"/>
+  </a>
+  <a href="https://www.facebook.com/menna.shalaby.713497">
+    <img src="https://img.icons8.com/ios-filled/50/1877F2/facebook-new.png"/>
+  </a>
 </p>
-
----
+-
 
 ## 🛠️ Top Technical Skills & Tools
 <p align="center">
