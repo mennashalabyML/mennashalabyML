@@ -4,7 +4,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mennashalabyML&color=blue)
 
 
-
 ## 🌐 My Social Accounts
 <p>
   <a href="mailto:mennashalabyrabee@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
@@ -14,7 +13,6 @@
   <a href="https://github.com/mennashalabyML"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
 </p>
 
----
 
 ## 🛠️ Top Technical Skills & Tools
 <p>
@@ -24,12 +22,9 @@
   <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png"/>
   <img src="https://img.icons8.com/color/48/000000/source-code.png"/>
   <img src="https://img.icons8.com/color/48/000000/data-configuration.png"/>
+
+
 </p>
-
-
-
-
-
 ## 📊 GitHub Stats
 <p align="center">
   
@@ -39,12 +34,3 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mennashalabyML&theme=tokyonight" />
 </p>
-
-
-
-
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mennashalabyML&theme=tokyonight" />
-</p>
-
