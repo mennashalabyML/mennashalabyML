@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Menna Shalaby ✨</h1>
+<h1 align="center">Hi, I'm Menna Shalaby</h1>
 <h2 align="center">AI & Machine Learning Student | Python</h2>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mennashalabyML&color=blue)
 
----
+
 
 ## 🌐 My Social Accounts
 <p align="center">
@@ -13,6 +13,7 @@
   <a href="https://www.facebook.com/menna.shalaby.713497"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
   <a href="https://github.com/mennashalabyML"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
 </p>
+
 
 
 ## 🛠️ Top Technical Skills & Tools
@@ -25,7 +26,8 @@
   <img src="https://img.icons8.com/color/48/000000/data-configuration.png"/>
 </p>
 
----
+
+
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -33,14 +35,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mennashalabyML&theme=radical" />
 </p>
 
----
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mennashalabyML&theme=onedark" />
 </p>
 
----
-
-## 📂 Featured Projects
-- [AI Portfolio](https://github.com/mennashalabyML/ai-portfolio) – My AI & Machine Learning Projects
