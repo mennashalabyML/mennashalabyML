@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Menna Shalaby ✨
+ AI & Machine Learning Student | Python  
 
-<!--
-**mennashalabyML/mennashalabyML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📌 About Me
+- Student at Menoufia University, Egypt  
+- Passionate about Artificial Intelligence & Machine Learning  
+- Problem solver, creative in UI design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/menna-shalaby-rabee)
+[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/mennashalabyML)
+[![Facebook](https://img.shields.io/badge/-Facebook-darkblue)](https://www.facebook.com/menna.shalaby.713497)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-green)](https://wa.me/201080860439)
+
+---
+
+## 🛠️ Skills & Tools
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-teal)
+![Python](https://img.shields.io/badge/-Python-yellow)
+![C++](https://img.shields.io/badge/-C++-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-orange)
+![Data Structure](https://img.shields.io/badge/-Data%20Structure-lightgrey)
+![Algorithms](https://img.shields.io/badge/-Algorithms-green)
+
+---
+
+## 📂 Featured Projects
+- [AI Portfolio](https://github.com/mennashalabyML/ai-portfolio) – My AI & Machine Learning Projects
