@@ -7,11 +7,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mennashalabyML)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-  <a href="https://github.com/mennashalabyML"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=mennashalabyML&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Menna" /></picture></a>
-  <a href="https://github.com/mennashalabyML"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=mennashalabyML&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
-</p>
-
 ---
 
 - 🎨 Interests: Graphic Design / AI / Freelance  
@@ -26,45 +21,53 @@
 
 ---
 
-<!-- Social icons section -->
+## 🌐 Social Links
 <p align="center">
-  <a href="mailto:mennashalabyrabee@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/menna-shalaby-rabee"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://wa.me/201080860439"><img width="32px" alt="WhatsApp" title="WhatsApp" src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/menna.shalaby.713497"><img width="32px" alt="Facebook" title="Facebook" src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/mennashalabyML"><img width="32px" alt="GitHub" title="GitHub" src="https://img.icons8.com/color/48/000000/github.png"/></a>
+  <a href="mailto:mennashalabyrabee@gmail.com"><img width="32px" alt="Gmail" src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+  <a href="https://www.linkedin.com/in/menna-shalaby-rabee"><img width="32px" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://wa.me/201080860439"><img width="32px" alt="WhatsApp" src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
+  <a href="https://www.facebook.com/menna.shalaby.713497"><img width="32px" alt="Facebook" src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+  <a href="https://github.com/mennashalabyML"><img width="32px" alt="GitHub" src="https://img.icons8.com/color/48/000000/github.png"/></a>
 </p>
 
 ---
 
-## 🛠️ My Favorite Tools
+## 🛠️ My Favorite Tools & Technologies
+<div align="center">
+  
+| Programming | Design | Freelance |
+|-------------|--------|-----------|
+| Python, C++, Java, MATLAB, Data Structures, OOP | Photoshop, Illustrator, InDesign | Upwork, مستقل, Freelance, خمسات |
 
-**Programming & Tech**  
-- Python | C++ | Java | MATLAB | Data Structures | OOP  
-
-**Design & Creativity**  
-- Photoshop | Illustrator | InDesign  
-
-**Freelance Platforms**  
-- Upwork | مستقل | Freelance | خمسات  
+</div>
 
 ---
 
-## 📊 Github Stats and Activity
-
+## 📊 GitHub Stats and Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mennashalabyML&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" alt="Menna's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mennashalabyML&theme=gotham&hide_border=true" width="48%" alt="Menna's GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mennashalabyML&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mennashalabyML&theme=gotham&hide_border=true" width="48%" />
+</p>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Menna's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mennashalabyML&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+---
+
+## 🌟 Sponsors
+<p align="center">
+  <a href="https://github.com/sponsors/mennashalabyML"><img src="https://custom-icon-badges.demolab.com/badge/-Support%20Me-1F222E?style=for-the-badge&logo=link-external&logoColor=white"/></a>
+</p>
+
+---
+
+## 🏷️ Holopin Badges
+<p align="center">
+  <a href="https://holopin.io/@mennashalabyML"><img src="https://holopin.me/mennashalabyML" alt="@mennashalabyML's Holopin board"></a>
 </p>
 
 ---
 
 ## 🌟 Interests & Goals
-
 - Building strong freelance profiles on Upwork & مستقل  
 - Uploading portfolio samples from university & initiative projects  
 - Designing logos and visuals that narrate positive transformation  
