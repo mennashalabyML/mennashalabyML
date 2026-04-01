@@ -71,4 +71,6 @@
 - Building strong freelance profiles on Upwork & مستقل  
 - Uploading portfolio samples from university & initiative projects  
 - Designing logos and visuals that narrate positive transformation  
-- Balancing aesthetics with functionality in every project  
+- Balancing aesthetics with functionality in every project
+- <img src="https://raw.githubusercontent.com/mennashalabyML/mennashalabyML/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
