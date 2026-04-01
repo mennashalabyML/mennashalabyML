@@ -26,21 +26,6 @@
 
 ---
 
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://twitter.com/menna"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.upwork.com/freelancers/~menna"><img width="32px" alt="Upwork" title="Upwork Profile" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://mostaql.com/u/menna"><img width="32px" alt="Mostaql" title="Mostaql Profile" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://khamsat.com/user/menna"><img width="32px" alt="Khamsat" title="Khamsat Profile" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.behance.net/menna"><img width="32px" alt="Behance" title="Behance Portfolio" src="https://i.imgur.com/OViZO8J.png"/></a>
-</p>
-
----
-
 ## 🛠️ My Favorite Tools
 
 **Programming & Tech**  
@@ -69,4 +54,3 @@
 - Uploading portfolio samples from university & initiative projects  
 - Designing logos and visuals that narrate positive transformation  
 - Balancing aesthetics with functionality in every project  
-
