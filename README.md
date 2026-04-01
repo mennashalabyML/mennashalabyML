@@ -1,35 +1,72 @@
-<h1 align="center">Hi, I'm Menna Shalaby</h1>
-<h2 align="center">AI & Machine Learning Student | Python</h2>
+### Hi there 👋
+[![](https://github.com/menna/menna/blob/main/chat.svg)](https://twitter.com/menna)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mennashalabyML&color=blue)
+<h3 align="center">A creative mind passionate about Graphic Design & AI</h3>
+<h4 align="center"> Bachelor’s in Computer Science – Menoufia University </h4>
+<h4 align="center"> ICPC Contest Participant </h4>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=menna)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🌐 My Social Accounts
-<p>
-  <a href="mailto:mennashalabyrabee@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
-  <a href="https://www.linkedin.com/in/menna-shalaby-rabee"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://wa.me/201080860439"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
-  <a href="https://www.facebook.com/menna.shalaby.713497"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-  <a href="https://github.com/mennashalabyML"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
-</p>
-
-
-## 🛠️ Top Technical Skills & Tools
-<p>
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png"/>
-  <img src="https://img.icons8.com/color/48/000000/source-code.png"/>
-  <img src="https://img.icons8.com/color/48/000000/data-configuration.png"/>
-</p>
-
-## 📊 GitHub Stats
 <p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=mennashalabyML&show_icons=true&theme=tokyonight" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mennashalabyML&layout=compact&theme=tokyonight" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mennashalabyML&theme=tokyonight" />
+  <a href="https://github.com/menna"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=menna&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Menna" /></picture></a>
+  <a href="https://github.com/menna"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=menna&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
 </p>
+
+---
+
+- 🎨 Interests: Graphic Design / AI / Freelance  
+- 🔭 Currently working on freelance projects  
+- 🌱 Learning advanced AI tools & design workflows  
+- 👯 Looking to collaborate on AI + Design projects  
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Menna" alt="Menna" /></a>
+  <a href="https://github.com/menna/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Graphic+Design+%2B+AI;ICPC+Participant;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+---
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://twitter.com/menna"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.upwork.com/freelancers/~menna"><img width="32px" alt="Upwork" title="Upwork Profile" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://mostaql.com/u/menna"><img width="32px" alt="Mostaql" title="Mostaql Profile" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://khamsat.com/user/menna"><img width="32px" alt="Khamsat" title="Khamsat Profile" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.behance.net/menna"><img width="32px" alt="Behance" title="Behance Portfolio" src="https://i.imgur.com/OViZO8J.png"/></a>
+</p>
+
+---
+
+## 🛠️ My Favorite Tools
+
+**Programming & Tech**  
+- Python | C++ | Java | MATLAB | Data Structures | OOP  
+
+**Design & Creativity**  
+- Photoshop | Illustrator | InDesign  
+
+**Freelance Platforms**  
+- Upwork | مستقل | Freelance | خمسات  
+
+---
+
+## 📊 Github Stats and Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=menna&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" alt="Menna's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=menna&theme=gotham&hide_border=true" width="48%" alt="Menna's GitHub streak"/>
+</p>
+
+---
+
+## 🌟 Interests & Goals
+
+- Building strong freelance profiles on Upwork & مستقل  
+- Uploading portfolio samples from university & initiative projects  
+- Designing logos and visuals that narrate positive transformation  
+- Balancing aesthetics with functionality in every project  
+
