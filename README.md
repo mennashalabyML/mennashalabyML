@@ -2,7 +2,7 @@
 [![](https://github.com/mennashalabyML/mennashalabyML/blob/main/chat.svg)](https://twitter.com/mennashalabyML)
 
 <h3 align="center">A creative mind passionate about Graphic Design & AI</h3>
-<h4 align="center"> Bachelor’s in Computer Science – Menoufia University </h4>
+<h4 align="center"> Bachelor’s in Artificial Intelligence – Menoufia University </h4>
 <h4 align="center"> ICPC Contest Participant </h4>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mennashalabyML)](https://github.com/ryo-ma/github-profile-trophy)
